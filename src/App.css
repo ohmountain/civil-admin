@@ -1,0 +1,27 @@
+.logo {
+    height: 32px;
+    background: #333;
+    border-radius: 6px;
+    margin: 16px;
+ }
+
+.fa {
+    margin-right: 4px;
+}
+
+.map-container {
+    position: relative;
+}
+
+.search_box {
+    position: absolute;
+    left: 120px;
+    top: 20px;
+    z-index: 99;
+    height: 28px;
+    width: 240px;
+    padding: 4px 16px;
+    border: 1px solid #00CED1;
+    border-radius: 4px;
+    outline: none;
+}
